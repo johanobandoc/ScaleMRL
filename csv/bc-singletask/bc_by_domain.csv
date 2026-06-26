@@ -1,0 +1,2 @@
+eval/avg_score_dmcontrol,eval/avg_score_dmcontrol-ext,eval/avg_score_metaworld,eval/avg_score_maniskill,eval/avg_score_mujoco,eval/avg_score_box2d,eval/avg_score_robodesk,eval/avg_score_ogbench,eval/avg_score_pygame,eval/avg_score_atari
+0.32312238633471463,0.23710632739568802,0.22448979591836735,0.08388267975226175,0.17869850570762844,0.26226533837616445,0.30000000000000004,0.358836759875218,0.43830049690839495,0.1775238950288406
